@@ -12,7 +12,7 @@
         "framework": "Saphir",
         "language": "Rust",
         "flavor": "None",
-        "orm": "None",
+        "orm": "MongODM",
         "platform": "None",
         "webserver": "None",
         "os": "Linux",
